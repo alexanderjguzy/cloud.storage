@@ -20,6 +20,7 @@ pydantic_core==2.46.3
 pyinstaller==6.19.0
 pyinstaller-hooks-contrib==2026.3
 python-jose==3.5.0
+python-multipart
 pywin32-ctypes==0.2.3
 rsa==4.9.1
 setuptools==82.0.1
